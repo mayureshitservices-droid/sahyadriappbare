@@ -1,0 +1,11 @@
+﻿node_modules/
+.expo/
+*.jks
+*.keystore
+android/app/build/
+android/.gradle/
+android/build/
+**/.cxx/
+.idea/
+*.iml
+scratch/
